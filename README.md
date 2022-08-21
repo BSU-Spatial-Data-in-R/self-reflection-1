@@ -7,7 +7,7 @@ This is the first of three self-reflections that you'll complete during the cour
 
 2. Once you've verified that you've correctly cloned the assignment repository, [create a new Quarto document](https://quarto.org/docs/get-started/authoring/rstudio.html). Name this file `self-reflection-1-xxx.qmd` and give it a title (like M Williamson Self-Reflection 1). Make sure that you select the `html` output option (Quarto can do a lot of cool things, but the html format is the least-likely to cause you additional headaches). We'll be using Quarto throughout the course so it's worth checking out the other tutorials in the getting started section.
 
-3. Copy the questions below into your document and [change the color of their text]{https://meghan.rbind.io/blog/quarto-slides/}.
+3. Copy the questions below into your document and [change the color of their text](https://meghan.rbind.io/blog/quarto-slides/).
 
 4. Save the changes and make your first commit!
 
